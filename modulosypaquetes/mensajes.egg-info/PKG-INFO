@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mensajes
+Version: 2.0
+Summary: Un paquete para saludar y despedir
+Home-page: https://lucianosoma.com.ar
+Author: Luciano somare
+Author-email: luciano@somare
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
